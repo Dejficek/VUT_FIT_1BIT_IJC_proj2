@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/project2.dir/wordcount.c.o CMakeFiles/project2.dir/htab_memory.c.o CMakeFiles/project2.dir/htab_iterators.c.o CMakeFiles/project2.dir/htab_getset.c.o CMakeFiles/project2.dir/htab_hash.c.o CMakeFiles/project2.dir/io.c.o  -o project2 

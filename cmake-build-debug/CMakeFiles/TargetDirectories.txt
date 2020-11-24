@@ -1,0 +1,3 @@
+/mnt/d/1BIT/IJC/project2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/1BIT/IJC/project2/cmake-build-debug/CMakeFiles/project2.dir
+/mnt/d/1BIT/IJC/project2/cmake-build-debug/CMakeFiles/edit_cache.dir
